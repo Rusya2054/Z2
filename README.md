@@ -21,7 +21,7 @@ Ensure you have Python 3 (>= 3.10.0) installed, then install the required depend
 pip install numpy matplotlib
 ```
 
-## Installation
+## Usage
 - **Reading OBJ Files**  
     `vertexes = get_points_from_blender("path/to/your/file.obj")`
 - **Plotting 3D Points**  
